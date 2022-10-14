@@ -1,0 +1,11 @@
+torch
+torchvision
+--extra-index-url https://download.pytorch.org/whl/cu116
+
+rich
+opencv-python
+numpy
+pandas
+seaborn
+scikit-learn
+
